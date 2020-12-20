@@ -1,0 +1,32 @@
+{
+  "author": "Voldemalort",
+  "authors": [
+    {
+      "name": "Voldemalort",
+      "email": "voldemalort@gmail.com",
+      "discord": "Voldemalort#9415",
+      "reddit": "u/voldemalort"
+    }
+  ],
+  "bugs": "https://github.com/Voldemalort/floating-conditions/issues",
+  "compatibleCoreVersion": "0.7.8",
+  "description": "Replace status icons with floating sprites above tokens.",
+  "download": "https://github.com/Voldemalort/floating-conditions/archive/v0.0.1.zip",
+  "includes": [
+    "assets",
+    "module.js",
+    "module.json"
+  ],
+  "languages": [],
+  "manifest": "https://raw.githubusercontent.com/Voldemalort/floating-conditions/master/module.json",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "0.7.7",
+  "name": "floating-conditions",
+  "readme": "https://raw.githubusercontent.com/Voldemalort/floating-conditions/master/README.md",
+  "scripts": [
+    "module.js"
+  ],
+  "title": "Floating Conditionss",
+  "url": "https://github.com/Voldemalort/floating-conditions",
+  "version": "0.0.1"
+}
